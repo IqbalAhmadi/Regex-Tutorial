@@ -111,4 +111,4 @@ EX: Test@Gmail.Org would return true whereas TestGmail. would return false becau
 
 # Author
 
-    I have woked on this assignment and here a link to my githiub repository:
+    I have woked on this assignment and here a link to my githiub repository: https://github.com/IqbalAhmadi/Regex-Tutorial
